@@ -11,7 +11,7 @@
 
 ### You need to re-create mySQL database to run this app.
 #### Open mySQL cli, create a database call "btvn_b11"
-#### Run 
+#### Run the createdb.sql file in the repo to reproduce the db
 #### Set 2 ENV variable DBUSER & DBPASS as user name and password to access mySQL sever
 
 ### You need to set an ENV SENDGRID_API with value ="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"
