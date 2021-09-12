@@ -5,7 +5,7 @@
 #### worker - It wait for jobs from rabbitMQ queue, and execute them (send email)
 #### mailer - It contain the logic to handle email sending process
 #### uitlity - some helper function
-#### main function - It connect application to rabbitmq, declare exchange, queue and call start the scan, publish, and sending email process
+#### main function - It connect application to rabbitmq, declare exchange, queue and start the scan, publish, and sending email process
 
 ## Note
 
